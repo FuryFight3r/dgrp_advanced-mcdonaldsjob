@@ -25,17 +25,17 @@ If you make changes to the addon please DO NOT re-upoad (and claim as your own w
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
 ```
-fvm install --save --folder=[dgrp] FuryFight3r/dgrp_mcdonaldsjob
+fvm install --save --folder=[dgrp] FuryFight3r/dgrp_advanced-mcdonaldsjob
 ```
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/FuryFight3r/dgrp_mcdonaldsjob [dgrp]/dgrp_mcdonaldsjob
+git clone https://github.com/FuryFight3r/dgrp_advanced-mcdonaldsjob [dgrp]/dgrp_mcdonaldsjob
 ```
 
 ### Manually
-- Download https://github.com/FuryFight3r/dgrp_mcdonaldsjob/archive/master.zip
+- Download https://github.com/FuryFight3r/dgrp_advanced-mcdonaldsjob/archive/master.zip
 - Put it in `[dgrp]` directory
 
 
